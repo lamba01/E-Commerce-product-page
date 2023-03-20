@@ -381,7 +381,7 @@ aside {
         position: relative;
         left: -105%;
         top: 0;     
-        transition: 1.5s ease-in-out;
+        transition: .8s ease-in-out;
         z-index: 3;
     }
     .slidemenu {

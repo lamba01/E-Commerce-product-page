@@ -127,10 +127,10 @@ var menu = document.querySelector('.mobile-menu');
 var hamburger = document.getElementById('hamburger');
 var overlay = document.querySelector('.overlay');
 hamburger.onclick = () =>{
-  menu.classList.toggle("slidemenu")
+  menu.classList.add("slidemenu")
     setTimeout(() => {
       document.querySelector('.overlay').style.display = 'block'
-    }, 1500);
+    }, 900);
   }
   var close = document.getElementById('close-menu');
 close.onclick = () =>{

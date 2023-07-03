@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./E-commerce product page/screenshot7.png)
+![](/E-commerce product page/screenshot7.png)
 
 
 
